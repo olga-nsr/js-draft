@@ -1,3 +1,6 @@
+//** Лекция 1.1****************/ 
+
+
 // let value = 1;
 // if(value === 10) {
 //     console.log('condition true');
@@ -20,7 +23,11 @@
 // }
 /**Тернарный оператор */
 //condition ? true : false
-const value = 17;
-let message = value > 15 && value < 20? 'true' : 'false';
-console.log(message);
+// const value = 17;
+// let message = value > 15 && value < 20? 'true' : 'false';
+// console.log(message);
 
+//Лекция 1
+
+
+//** Лекция 1.2****************/ 
