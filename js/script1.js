@@ -70,6 +70,7 @@ const lastE1 = array.length -1; // останній єлемент
 //    }
 //           return "Access denied, wrong password!"
 // }
+
 //ЗАДАЧА: СКЛАД ТОВАРОВ 3.0
 
 // function calculateEngravingPrice(message, pricePerWord) {

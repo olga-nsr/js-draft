@@ -28,6 +28,8 @@
 // console.log(message);
 
 //Лекция 1
-
+// const num = 15;
+// const scr = "15"
+console.log(typeof scr);
 
 //** Лекция 1.2****************/ 
